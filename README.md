@@ -1,4 +1,3 @@
-<img width="1204" height="1600" alt="571081851-2b479bb4-830a-400a-b55f-64c8858ac989" src="https://github.com/user-attachments/assets/00de4624-9f06-484e-abdb-d1204637a6f4" /><img width="1204" height="1600" alt="571081764-b107838b-1eab-4886-a9c8-19138212bba1" src="https://github.com/user-attachments/assets/1890a53b-31b1-4b5d-a174-0453439375cc" /># EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
